@@ -14,23 +14,7 @@ Cloud Administrator | Azure Engineer | DevOps Enthusiast
 
 # 💫 About Me
 
-✔️ Azure Cloud Administrator with **2.5+ years** of experience
-
-✔️ Managing Enterprise Cloud Infrastructure
-
-✔️ Azure • AWS • Microsoft 365
-
-✔️ Infrastructure as Code using Terraform
-
-✔️ Azure DevOps & CI/CD
-
-✔️ Docker & Kubernetes
-
-✔️ PowerShell Automation
-
-✔️ Cloud Security & Disaster Recovery
-
-✔️ Always learning new cloud technologies.
+I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in building, automating, and managing enterprise cloud infrastructure. I specialize in **Microsoft Azure**, **AWS**, and **Microsoft 365**, with strong expertise in cloud networking, virtualization, identity and access management, monitoring, disaster recovery, and infrastructure automation. I enjoy working with **Terraform**, **Azure DevOps**, **Docker**, **Kubernetes (AKS)**, and **PowerShell** to create secure, scalable, and reliable cloud environments. Passionate about DevOps and cloud-native technologies, I continuously explore new tools and best practices to improve operational efficiency and deliver modern infrastructure solutions.
 
 ---
 
