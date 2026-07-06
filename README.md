@@ -20,17 +20,7 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 
 # 🚀 Current Focus
 
-🔹 Azure DevOps
-
-🔹 Kubernetes (AKS)
-
-🔹 Terraform
-
-🔹 GitHub Actions
-
-🔹 Azure Networking
-
-🔹 Infrastructure Automation
+🔹 Azure DevOps    🔹 Azure Networking    🔹 Kubernetes (AKS)    🔹 Docker    🔹 Terraform    🔹 GitHub    🔹 GitHub Actions    🔹 Infrastructure Automation    🔹 Ansible    🔹 GitLab CI/CD    🔹 Grafana    🔹 Prometheus
 
 ---
 
@@ -50,6 +40,9 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 
 - Microsoft Azure
 - Amazon Web Services (AWS)
+- Google Cloud (GCP)
+- Networking
+- Windows Server
 - Microsoft 365
 
 ### Compute
@@ -99,6 +92,7 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 ### Scripting
 
 - PowerShell
+- Terraform
 - Python
 
 ---
@@ -129,7 +123,7 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 
 🎓 Microsoft Azure Fundamentals (AZ-900)
 
-🎓 AWS Certified Cloud Practitioner
+🎓 AWS Certified Cloud Practitioner (CLF-C02)
 
 🎓 AWS Solutions Architect Associate (In Progress)
 
