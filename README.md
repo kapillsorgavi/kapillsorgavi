@@ -137,13 +137,7 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 
 🚀 Azure Virtual Network Architecture
 
-🚀 AKS Deployment
-
 🚀 Azure DevOps CI/CD Pipeline
-
-🚀 Dockerized Portfolio Website
-
-🚀 Hub & Spoke Network Architecture
 
 ---
 
