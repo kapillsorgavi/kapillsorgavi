@@ -39,66 +39,95 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 
 # 💻 Tech Stack
 
-### Cloud
+<table>
+<tr>
+<td valign="top" width="33%">
 
+### ☁️ Cloud
 - Microsoft Azure
 - Amazon Web Services (AWS)
-- Google Cloud (GCP)
-- Networking
-- Windows Server
+- Google Cloud Platform (GCP)
 - Microsoft 365
+- Windows Server
+- Enterprise Networking
 
-### Compute
+</td>
 
+<td valign="top" width="33%">
+
+### 🖥️ Compute & Containers
 - Azure Virtual Machines
-- EC2
-- AKS
+- Amazon EC2
 - Docker
+- Kubernetes (AKS)
 
-### Networking
+</td>
 
-- VNets
-- NSG
+<td valign="top" width="33%">
+
+### 🌐 Networking
+- Azure VNets
+- Network Security Groups (NSG)
 - Azure Bastion
 - VPN Gateway
 - Application Gateway
-- Load Balancer
+- Azure Load Balancer
 - Azure DNS
-- Private Endpoint
+- Private Endpoints
 
-### DevOps
+</td>
+</tr>
 
+<tr>
+<td valign="top">
+
+### ⚙️ DevOps & IaC
 - Azure DevOps
-- Git
-- GitHub
-- Terraform
+- Git & GitHub
+- GitHub Actions
+- GitLab CI/CD
 - Jenkins
-- CI/CD
+- Terraform
 - Ansible
+- CI/CD Pipelines
 
-### Monitoring
+</td>
 
+<td valign="top">
+
+### 📊 Monitoring
 - Azure Monitor
 - Log Analytics
 - Prometheus
 - Grafana
 
-### Security
+</td>
 
+<td valign="top">
+
+### 🔐 Security & Automation
 - Azure Entra ID
 - RBAC
 - MFA
 - Conditional Access
 - Azure Key Vault
 - Microsoft Defender
-
-### Scripting
-
 - PowerShell
-- Terraform
 - Python
 
+</td>
+</tr>
+</table>
+
 ---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,git,github,gitlab,jenkins,ansible,powershell,python&perline=7"/>
+
+</p>
 
 # 📈 GitHub Stats
 
