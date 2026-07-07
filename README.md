@@ -131,18 +131,15 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 
 # 📈 GitHub Stats
 
+<h2>📈 GitHub Stats</h2>
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kapillsorgavi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=kapillsorgavi&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kapillsorgavi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kapillsorgavi&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapillsorgavi&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapillsorgavi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
