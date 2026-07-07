@@ -20,8 +20,11 @@ I'm a **Cloud Administrator** with **2.5+ years of hands-on experience** in buil
 
 # 🚀 Current Focus
 
-🔹 Azure DevOps    🔹 Azure Networking    🔹 Kubernetes (AKS)    🔹 Docker    🔹 Terraform    🔹 GitHub    🔹 GitHub Actions    🔹 Infrastructure Automation    🔹 Ansible    🔹 GitLab CI/CD    🔹 Grafana    🔹 Prometheus
+<p align="center">
 
+⚡ Azure DevOps • ☁️ Azure Networking • 🐳 Docker • ☸️ Kubernetes (AKS) • 🏗️ Terraform • 🔄 GitHub Actions • 💻 GitHub • 🤖 Ansible • 🚀 GitLab CI/CD • 📊 Grafana • 📈 Prometheus • 🔍 Azure Monitor • ⚙️ Infrastructure Automation
+
+</p>
 ---
 
 # ☁️ Azure Skills
